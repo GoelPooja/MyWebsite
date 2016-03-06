@@ -1,0 +1,7 @@
+Limitations the current puppet-iis module and fix.
+
+Current iis module does not install iis. I have included it in website module in class webroles.
+There are two bugs in the module which I have fixed :
+init.pp -- 
+
+ 

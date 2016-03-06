@@ -4,6 +4,6 @@ Current iis module does not install iis. I have included it in website module in
 There are two bugs in the module which I have fixed :
 metadata.json -- Added dependency to fix error for missing windows feature resource:
  {"name":"puppet/windowsfeature","version_requirement":">= 1.0.1 < 2.0.0"}
- init.pp -- 
+ init.pp -- include ::iis::features::application_development [Fixed error- It was originally application-deployment]
 
  

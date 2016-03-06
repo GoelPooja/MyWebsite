@@ -1,0 +1,13 @@
+{
+  "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+  "README.md": "3a844b08817737867aaa1b778069a13c",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/init.pp": "3842c802fe62c3148a5c3636d6eb188d",
+  "manifests/mywebsite.pp": "fc52047237c52fab9870f176211a0224",
+  "manifests/web.pp": "7656060f3bca021e381a5bba1b002404",
+  "manifests/webroles.pp": "9915dafc670fd5c9b753e75d539e4a71",
+  "metadata.json": "594611774a000ec6da1f3a0a165ea3a4",
+  "spec/classes/init_spec.rb": "6cfe0501a33f5d73bb52b42ad04d0d01",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "tests/init.pp": "017ea1fb4ca946061dbda60e4c93c58b"
+}

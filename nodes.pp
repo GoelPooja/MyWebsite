@@ -1,0 +1,3 @@
+node 'puppetagent' {
+      include 'website'
+}
